@@ -1,0 +1,2 @@
+# RevRoll-SQL-Analysis-of-Automotive-Parts-Sales-and-Installation-Services
+RevRoll is an auto parts dealer and installer. They offer a full range of automotive parts replacement services. This project uncovers the intricacies of RevRoll's business through detailed SQL analysis. By examining sales, installations, and customer data, the study aims to reveal insights that can optimize operations and improve service quality.
