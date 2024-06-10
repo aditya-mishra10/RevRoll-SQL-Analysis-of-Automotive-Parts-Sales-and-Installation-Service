@@ -52,4 +52,5 @@ installer_one_id: ID of the first installer (integer)
 installer_two_id: ID of the second installer (integer)
 
 installer_one_time: time taken by the first installer (integer)
+
 installer_two_time: time taken by the second installer (integer)
